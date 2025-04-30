@@ -17,7 +17,7 @@ Este proyecto automatiza la búsqueda de "playstation 5" en MercadoLibre México
    cd mercadolibre_scraper
 
 2. Instala las dependencias:
-   pip install -r requirements.txt
+   pip install -r requisitos_previos.txt
 
 ## Uso
 
