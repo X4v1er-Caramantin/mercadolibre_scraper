@@ -1,0 +1,6 @@
+Requisitos Previos
+Instalar:
+1.-Python 3.7 o superior
+2.-Google Chrome
+3.-ChromeDriver compatible con tu versión de Chrome
+4.-Selenium
